@@ -1,6 +1,6 @@
 # Deep neural network forbandwidth enhancement of photoacoustic data
 
-Python Code : (requires keras with Theano as backend)
+**Python Code** : (requires keras with Theano as backend)
 
 #Implementation of the proposed deep neural network: DNN_Bandwidth_Enhancement.py
 
